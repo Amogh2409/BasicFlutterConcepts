@@ -1,0 +1,34 @@
+Concepts
+    What are Widgets?
+    Types of Widgets
+    What is State?
+    Stateless Widget
+    Material & Cupertino Design
+    MaterialApp
+    Scaffold Widget
+    Center Widget
+    Widget Tree
+    Splitting & Extracting Widgets
+    What is BuildContext?
+    Importing Files & Magic of Flutter Extension
+    Relative Importing
+    
+Widgets
+    Scaffold
+    Container
+    Text
+    Icon
+    App Bar
+    Column / Row
+    ListView
+    GridView
+    GestureDetector
+    Navigation
+
+Routes
+    Drawer
+    Bottom Navigation Bar
+
+Stateless vs. Stateful Widgets
+    Counter App example
+
